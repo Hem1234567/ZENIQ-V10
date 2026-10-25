@@ -193,4 +193,5 @@ Android Studio + NDK 26.1 + CMake 3.22.1, run `./setup.sh` once, press Run on an
 - 41 models download in-app (single-file GGUF). The rest show "Open page" (vision, speech, embeddings, image generation, and newer architectures the bundled llama.cpp b5618 cannot load).
 - If a Hugging Face file name ever returns 404, the downloader looks up the repo's real file list and retries.
 #   Z E N I Q - V 1 0  
+ #   Z E N I Q - V 1 0  
  
